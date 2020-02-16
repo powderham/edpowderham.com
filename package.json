@@ -1,0 +1,15 @@
+{
+  "name": "indigo",
+  "version": "1.0.0",
+  "homepage": "https://www.edpowderham.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/powderham/powderham.github.io"
+  },
+  "scripts": {
+    "build": "bundle exec jekyll build",
+    "serve": "bundle exec jekyll serve",
+    "test": "bundle exec htmlproofer ./_site"
+  }
+}
