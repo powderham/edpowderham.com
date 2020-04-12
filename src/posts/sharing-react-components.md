@@ -1,5 +1,5 @@
 ---
-title: Creating this blog
+title: Self hosting and sharing React components between separate projects
 author: Ed Powderham
 date: "2018-02-18"
 ---
