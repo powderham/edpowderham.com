@@ -1,17 +1,20 @@
 import * as glob from "glob";
 import matter from "gray-matter";
 import ReactMarkdown from "react-markdown";
+import Layout from "../../components/Layout";
 
 export default function BlogPost(props: IBlogPost) {
   return (
-    <div>
-      <article>
-        <h1>{props.metadata.title}</h1>
-        <div>
-          <ReactMarkdown source={props.body} />
-        </div>
-      </article>
-    </div>
+    <Layout>
+      <div>
+        <article>
+          <h1>{props.metadata.title}</h1>
+          <div>
+            <ReactMarkdown source={props.body} />
+          </div>
+        </article>
+      </div>
+    </Layout>
   );
 }
 
