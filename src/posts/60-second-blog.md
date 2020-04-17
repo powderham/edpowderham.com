@@ -17,39 +17,39 @@ You will need:
 
 [Create a repository](https://github.com/powderham/nextjs-blog-starter/generate) from the template.
 
-![Create from repository image](../../public/images/60-second-blog/create-blog-from-template.png)
+![Create from repository image](/images/60-second-blog/create-blog-from-template.png)
 
 #### Step 2: Import your new repository on zeit
 
 Go to [https://zeit.co/import/git](https://zeit.co/import/git) and import your project
 
-![Import repository image](../../public/images/60-second-blog/import-github-repository.png)
+![Import repository image](/images/60-second-blog/import-github-repository.png)
 
 Select your repository
 
-![Import repository image](../../public/images/60-second-blog/select-repository.png)
+![Import repository image](/images/60-second-blog/select-repository.png)
 
 Import your project and give it a name
 
-![Import project image](../../public/images/60-second-blog/import-project.png)
+![Import project image](/images/60-second-blog/import-project.png)
 
 The project is not in a sub-directory so leave blank
 
-![Subdirectory select image](../../public/images/60-second-blog/subdirectory-select.png)
+![Subdirectory select image](/images/60-second-blog/subdirectory-select.png)
 
 Zeit will auto detect your nextjs project so press deploy
 
-![Deploy image](../../public/images/60-second-blog/deploy.png)
+![Deploy image](/images/60-second-blog/deploy.png)
 
 #### Step 3: ...?
 
 Wait for your build
 
-![Building image](../../public/images/60-second-blog/building.png)
+![Building image](/images/60-second-blog/building.png)
 
 #### Step 4: Profit
 
-![Built image](../../public/images/60-second-blog/built.png)
+![Built image](/images/60-second-blog/built.png)
 
 Your blog is now live, and you can check it out at the [given link](my-new-blog.powderham.now.sh)
 

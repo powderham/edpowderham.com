@@ -154,6 +154,6 @@ import { TodaysDate } from 'shared-react-component-example';
 
 and now <TodaysDate /> renders as:
 
-![Todays date image](../../public/images/todays-date.png)
+![Todays date image](/images/todays-date.png)
 
 I hope you this helps, let me know if you have any questions!
