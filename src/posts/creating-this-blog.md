@@ -4,7 +4,7 @@ author: Ed Powderham
 date: "2020-04-11"
 ---
 
-This blog was created using a [starter]('https://github.com/powderham/nextjs-blog-starter') I made.
+This blog was created using a [starter](https://github.com/powderham/nextjs-blog-starter) I made.
 
 It leverages the following technologies:
 
