@@ -1,0 +1,10 @@
+{
+  "alias": ["www.edpowderham.com"],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "status": 301,
+      "headers": { "Location": "https://edpowderham.com/$1" }
+    }
+  ]
+}
